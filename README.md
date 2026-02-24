@@ -41,11 +41,11 @@ The Orange Pi 5 Plus was configured to function as a lightweight, deployable net
 
 Refer to the full setup guide for step-by-step instructions:
 
-1. [Required Tools](Orange_Pi_5_Plus_Setup___Configuration_Guide.md#required-tools)
-2. [Assembly](Orange_Pi_5_Plus_Setup___Configuration_Guide.md#assembly)
-3. [Startup](Orange_Pi_5_Plus_Setup___Configuration_Guide.md#startup)
-4. [Kismet Configuration](Orange_Pi_5_Plus_Setup___Configuration_Guide.md#kismet)
-5. [Metricbeat Configuration](Orange_Pi_5_Plus_Setup___Configuration_Guide.md#metricbeat)
+1. [Required Tools](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#required-tools)
+2. [Assembly](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#assembly)
+3. [Startup](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#startup)
+4. [Kismet Configuration](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#kismet)
+5. [Metricbeat Configuration](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#metricbeat)
 
 ## Notes
 
