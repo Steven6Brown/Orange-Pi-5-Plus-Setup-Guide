@@ -1,6 +1,6 @@
 # Orange Pi 5 Plus Setup & Configuration Guide
 
-A complete hardware and software setup guide for configuring an Orange Pi 5 Plus as a network monitoring node. Written during an internship at Digital Cloak, this guide covers everything from physical assembly to deploying Kismet for wireless device capture and Metricbeat for system monitoring.
+A complete hardware and software setup guide for configuring an Orange Pi 5 Plus as a network monitoring node. Written during a cybersecurity internship, this guide covers everything from physical assembly to deploying Kismet for wireless device capture and Metricbeat for system monitoring.
 
 ## Overview
 
