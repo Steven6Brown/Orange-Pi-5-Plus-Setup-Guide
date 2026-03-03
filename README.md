@@ -41,11 +41,11 @@ The Orange Pi 5 Plus was configured to function as a lightweight, deployable net
 
 Refer to the full setup guide for step-by-step instructions:
 
-1. [Required Tools](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#required-tools)
-2. [Assembly](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#assembly)
-3. [Startup](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#startup)
-4. [Kismet Configuration](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#kismet)
-5. [Metricbeat Configuration](Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#metricbeat)
+1. [Required Tools](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#required-tools)
+2. [Assembly](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#assembly)
+3. [Startup](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#startup)
+4. [Kismet Configuration](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#kismet)
+5. [Metricbeat Configuration](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#metricbeat)
 
 ## Notes
 
