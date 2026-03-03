@@ -41,12 +41,15 @@ The Orange Pi 5 Plus was configured to function as a lightweight, deployable net
 
 Refer to the full setup guide for step-by-step instructions:
 
+📄 [View Full Setup Guide (PDF)](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide_compressed.pdf)
+
+Or jump to a specific section in the markdown guide:
+
 1. [Required Tools](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#required-tools)
 2. [Assembly](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#assembly)
 3. [Startup](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#startup)
 4. [Kismet Configuration](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#kismet)
 5. [Metricbeat Configuration](https://github.com/Steven6Brown/Orange-Pi-5-Plus-Setup-Guide/blob/main/Orange%20Pi%205%20Plus%20Setup%20%26%20Configuration%20Guide.md#metricbeat)
-
 ## Notes
 
 - This guide was written for the Orange Pi 5 Plus running Armbian. Steps may vary for other operating systems or board versions.
